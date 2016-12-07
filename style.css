@@ -170,7 +170,7 @@ h2{
     width: 90%;
     background-position: center;
     margin-right: 8.5%;
-    margin-top: 40%;
+    margin-top: 30%;
   }
 
   .imageCrop{
@@ -184,6 +184,7 @@ h2{
     width: 90%;
     height: 200px;
     display: flex;
+    margin-top: -15%;
   }
 
   #front{
