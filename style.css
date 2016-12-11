@@ -179,10 +179,10 @@ h2{
 
 	img {
 
-    width: 90%;
-    background-size: 250%;
+    width: 100%;
+    /*background-size: 500%;*/
     background-position: center;
-    margin-right: 8.5%;
+    margin-right: 50px;
     margin-top: 30%;
   }
 
