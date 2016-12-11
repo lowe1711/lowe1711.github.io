@@ -1,5 +1,6 @@
 window.onload = function(){
 
+
 var chinese_yes=0
 var chinese_no=0
 var italian_yes=0
