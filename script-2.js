@@ -379,8 +379,8 @@ var etc= ["#etc","#etc2","#etc3","#etc4","#etc5","#etc6","#etc",
   $(".american_yes").on("click", function(){
     //  var numb = Math.random(0,chinese_restaurants.length)
     // $(this).attr("href", chinese_restaurants[numb]) 
-  mexican_yes++
-  if(mexican_yes>=3){
+  american_yes++
+  if(american_yes>=3){
 
      var numb = Math.random();
      if (numb < 0.33) {
